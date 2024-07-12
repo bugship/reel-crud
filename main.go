@@ -1,4 +1,4 @@
-// main.go — fantastic-tribble.
+// main.go — reel-crud.
 // Author: bugship
 
 package main

@@ -1,4 +1,4 @@
-module github.com/bugship/fantastic-tribble
+module github.com/bugship/reel-crud
 
 go 1.23.2
 
